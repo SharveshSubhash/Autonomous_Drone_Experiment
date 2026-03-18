@@ -6,7 +6,7 @@ A fully autonomous drone agent that accepts **natural language commands**, uses 
 
 ## Demo
 
-[![AI Controlled Drone Demo](https://img.youtube.com/vi/cimnMgLYCnY/0.jpg)](https://www.youtube.com/watch?v=cimnMgLYCnY&t=406s)
+[![AI Controlled Drone Demo](https://img.youtube.com/vi/cimnMgLYCnY/0.jpg)]
 
 ---
 
